@@ -25,7 +25,7 @@ public/uploads
 *.eml
 .DS_Store
 
-/.ruby-version
+#/.ruby-version
 /.ruby-gemset
 /.rvmrc
 
