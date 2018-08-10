@@ -204,3 +204,6 @@ group :production do
 end
 
 ruby '>= 2.2', '< 3.0'
+
+
+gem 'airbrake', '~> 5.0'
